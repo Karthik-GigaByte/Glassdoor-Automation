@@ -7,8 +7,10 @@ This repository contains a suite of automated tests for the Glassdoor website, i
 ## Technologies Used
 
 
-- **Programming Language:** [![Python](https://img.shields.io/badge/Python-100000?style=plastic&logo=Python&logoColor=white&labelColor=0F0312&color=black)](https://github.com/Karthik-GigaByte/Glassdoor-Automation) 
-- **Automation Tool:**  [![Selenium](https://img.shields.io/badge/Selenium-100000?style=plastic&logo=Selenium&logoColor=white&labelColor=43DD0F&color=black)](https://github.com/Karthik-GigaByte/Glassdoor-Automation)
+- **Programming Language:**    [![Python](https://img.shields.io/badge/Python-100000?style=plastic&logo=Python&logoColor=white&labelColor=0F0312&color=black)](https://github.com/Karthik-GigaByte/Glassdoor-Automation)
+  
+- **Automation Tool:**    [![Selenium](https://img.shields.io/badge/Selenium-100000?style=plastic&logo=Selenium&logoColor=white&labelColor=43DD0F&color=black)](https://github.com/Karthik-GigaByte/Glassdoor-Automation)
+  
 - **Environment Management:** dotenv (.env)
 
 ## Test Cases
