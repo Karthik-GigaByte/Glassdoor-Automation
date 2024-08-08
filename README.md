@@ -36,9 +36,9 @@ Below is the table of test cases covered in this Selenium automation suite:
     ```
 
 3.**Setup the dotenv**:
-    ```bash
-    pip install dotenv
-    ```
+   ```bash
+     pip install dotenv
+   ```
     
 ## Demonstration
 
