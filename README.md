@@ -7,21 +7,21 @@ This repository contains a suite of automated tests for the Glassdoor website, i
 ## Technologies Used
 
 
-- **Programming Language:** Python
-- **Automation Tool:** Selenium WebDriver
+- **Programming Language:** [![Python](https://img.shields.io/badge/Python-100000?style=plastic&logo=Python&logoColor=white&labelColor=0F0312&color=black)](https://github.com/Karthik-GigaByte/Glassdoor-Automation) 
+- **Automation Tool:**  [![Selenium](https://img.shields.io/badge/Selenium-100000?style=plastic&logo=Selenium&logoColor=white&labelColor=43DD0F&color=black)](https://github.com/Karthik-GigaByte/Glassdoor-Automation)
 - **Environment Management:** dotenv (.env)
 
 ## Test Cases
 
 Below is the table of test cases covered in this Selenium automation suite:
 
-| Test Case ID | Description          | Method                     | Status (Active/Deprecated) |
-|--------------|----------------------|----------------------------|----------------------------|
-| TC01         | Login functionality  | `test_login()`             | Active                     |
-| TC02         | Change Password      | `test_change_password()`   | Active                     |
-| TC03         | Posting a test       | `test_posting()`           | Active                     |
-| TC04         | Search for companies | `test_search_company()`    | Active                     |
-| TC05         | Search for jobs      | `test_search_jobs()`       | Active                     |
+| Test Case ID | Description          | Method                     | Status (Active/Deprecated) |Status                     |
+|--------------|----------------------|----------------------------|----------------------------|---------------------------|
+| TC01         | Login functionality  | `test_login()`             | Active                     | Pass                      |
+| TC02         | Change Password      | `test_change_password()`   | Active                     | Pass                      |
+| TC03         | Posting a test       | `test_posting()`           | Active                     | Pass                      |
+| TC04         | Search for companies | `test_search_company()`    | Active                     | Pass                      |
+| TC05         | Search for jobs      | `test_search_jobs()`       | Active                     | Pass                      |
 
 ## How to Use
 
