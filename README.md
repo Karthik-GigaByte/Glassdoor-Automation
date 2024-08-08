@@ -1,4 +1,4 @@
-# Glassdoor Automation Testing
+# Glassdoor Automation Testing  https://img.shields.io/badge/Glassdoo-1FDD0A
 
 ## Introduction
 
