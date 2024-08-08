@@ -1,4 +1,4 @@
-# Glassdoor Automation Testing (https://img.shields.io/badge/Selenium-Glassdoor%20Automation-0281f8) ![Badge](https://img.shields.io/badge/status-active-brightgreen) 
+# Glassdoor Automation Testing ![Badge](https://img.shields.io/badge/Selenium-Glassdoor%20Automation-1FDD0A)
 
 ## Introduction
 
