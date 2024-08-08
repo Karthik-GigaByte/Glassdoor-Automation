@@ -35,10 +35,10 @@ Below is the table of test cases covered in this Selenium automation suite:
     pip install -r requirements.txt
     ```
 
-3.**Setup the dotenv**:
-   ```bash
+3. **Setup the dotenv**:
+    ```bash
      pip install dotenv
-   ```
+    ```
     
 ## Demonstration
 
