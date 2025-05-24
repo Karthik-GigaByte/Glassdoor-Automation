@@ -41,19 +41,6 @@ Below is the table of test cases covered in this Selenium automation suite:
     ```bash
      pip install dotenv
     ```
-    
-## Demonstration
-
-Here are some animated GIFs showing the tests in action:
-
-### Login Test
-
-![Login Test GIF](path_to_your_gif/login_test.gif)
-
-### Change Password Test
-
-![Change Password GIF](path_to_your_gif/change_password_test.gif)
-
 
 ## License
 
